@@ -29,7 +29,7 @@ Este repositório contém o código-fonte do meu primeiro portfólio desenvolvid
 
 ## 📬 Contato
 📧 E-mail: Luizfelipepaschoalgoncalves@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/luiz-felipe-paschoal-gonçalves-31b735223/  
+🔗 LinkedIn: https://www.linkedin.com/in/luizfelipepaschoal/  
 
 ---
 
